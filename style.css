@@ -1,0 +1,40 @@
+body {
+    background: #E9ECEF;
+}
+
+.nav-link {
+    color: white;
+
+}
+
+.nav-link:hover {
+    color: lightgray;
+    
+}
+
+.table-links {
+    color: black;
+}
+
+.table-links:hover {
+    color: rgb(0, 132, 255);
+    text-decoration-style: dotted;
+}
+
+table.table-bordered{
+    border:1px dashed black;
+    margin-top:20px;
+}
+
+table.table-bordered > thead > tr > th{
+    border:1px solid black;
+}
+
+table.table-bordered > tbody > tr > td{
+    border:1px dashed black;
+}
+
+.stargazers {
+    margin-left: 10px;
+    color: black;
+}
