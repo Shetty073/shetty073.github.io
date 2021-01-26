@@ -1,4 +1,4 @@
 # My portfolio site
 
-## [Visit](https://shetty073.github.io/)
+## <a href="https://shetty073.github.io/">VISIT</a>
 
