@@ -1,4 +1,4 @@
 # My portfolio site
 
-## This will be redesigned and updated soon
+## !(https://shetty073.github.io/)[Visit]
 
