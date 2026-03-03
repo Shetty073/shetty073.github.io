@@ -57,6 +57,28 @@ export default function About() {
                                 );
                             })}
                         </div>
+
+                        <div className="mt-8">
+                            <a
+                                href="https://ashishshettydev.blogspot.com/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="block glass p-6 rounded-2xl border border-white/10 hover:border-primary-500/50 transition-colors group relative overflow-hidden"
+                            >
+                                <div className="absolute inset-0 bg-gradient-to-br from-primary-500/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
+                                <div className="relative z-10">
+                                    <h3 className="text-xl font-bold text-white mb-2 group-hover:text-primary-400 transition-colors flex items-center gap-2">
+                                        Ashish Shetty's Dev Blog
+                                    </h3>
+                                    <p className="text-gray-400 text-sm leading-relaxed mb-4">
+                                        Discover fascinating insights and behind-the-scenes details of building modern software systems. I write about architecture, deep-dives (e.g., how low-code/no-code systems work), coding best practices like review & refactoring, and technical quirks (e.g., why floats can be bad).
+                                    </p>
+                                    <span className="text-primary-500 flex items-center gap-1 text-sm font-medium">
+                                        Read my articles →
+                                    </span>
+                                </div>
+                            </a>
+                        </div>
                     </div>
 
                 </div>
