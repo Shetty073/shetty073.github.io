@@ -22,19 +22,19 @@ export default function About() {
                         </div>
 
                         <h2 className="text-4xl md:text-5xl font-bold tracking-tight mb-8">
-                            Student of <br />
-                            <span className="text-gradient">Information Technology</span>
+                            Technical Lead & <br />
+                            <span className="text-gradient">Backend Specialist</span>
                         </h2>
 
                         <div className="space-y-6 text-lg text-gray-400 leading-relaxed">
                             <p>
-                                I am a student of Information Technology with a strong passion for coding.
-                                It is one of the three big things I do to pass time when I am bored,
+                                I am an experienced Technical Lead with a strong passion for architecting systems and writing clean, scalable code.
+                                Beyond my day-to-day professional work, coding remains one of my core hobbies,
                                 alongside reading and playing video games.
                             </p>
                             <p>
-                                This portfolio serves as a central hub where all my future projects
-                                added to my GitHub repository will be listed for easy search and reachability.
+                                This portfolio serves as a central hub where my various open-source projects, e-learning platforms, and data analysis tools
+                                from my GitHub repository are listed for easy reachability.
                             </p>
                         </div>
                     </div>
