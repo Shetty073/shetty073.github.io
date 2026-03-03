@@ -23,13 +23,12 @@ export default function Hero() {
                     </div>
 
                     <h1 className="text-5xl sm:text-7xl font-extrabold tracking-tight mb-6">
-                        <span className="block text-white">Welcome to my</span>
-                        <span className="block text-gradient">AshishShetty Project</span>
+                        <span className="block text-white">Hi, I'm</span>
+                        <span className="block text-gradient">Ashish Shetty</span>
                     </h1>
 
                     <p className="mt-6 max-w-2xl mx-auto text-lg sm:text-xl text-gray-400 leading-relaxed">
-                        Here I create interesting programs and share their source code,
-                        so that other developers can learn and build upon them.
+                        I am a Technical Lead specializing in architecting and building robust REST microservices and scalable backend systems. While my professional work focuses on delivering high-performance solutions using Python and Go, my personal passions involve developing full-stack applications, e-learning platforms, and data analysis tools, which I open-source here to share with the developer community.
                     </p>
 
                     <div className="mt-10 flex justify-center gap-4">
