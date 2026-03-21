@@ -28,7 +28,7 @@ export default function Footer() {
                             <Github className="h-5 w-5" />
                         </a>
                         <a
-                            href="https://twitter.com/Ashishsanfiero"
+                            href="https://x.com/meraabaap"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-gray-400 hover:text-[#1DA1F2] transition-colors p-2 hover:bg-[#1DA1F2]/10 rounded-full"

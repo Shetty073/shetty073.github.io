@@ -37,7 +37,7 @@ export default function Navbar() {
                                     <span className="sr-only">GitHub</span>
                                     <Github className="h-5 w-5" />
                                 </a>
-                                <a href="https://twitter.com/Ashishsanfiero" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#1DA1F2] transition-colors">
+                                <a href="https://x.com/meraabaap" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#1DA1F2] transition-colors">
                                     <span className="sr-only">Twitter</span>
                                     <Twitter className="h-5 w-5" />
                                 </a>
@@ -90,7 +90,7 @@ export default function Navbar() {
                                 <a href="https://github.com/Shetty073" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
                                     <Github className="h-6 w-6" />
                                 </a>
-                                <a href="https://twitter.com/Ashishsanfiero" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#1DA1F2]">
+                                <a href="https://x.com/meraabaap" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#1DA1F2]">
                                     <Twitter className="h-6 w-6" />
                                 </a>
                             </div>
